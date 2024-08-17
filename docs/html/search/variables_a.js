@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['max_5femergency_5fcount_0',['MAX_EMERGENCY_COUNT',['../namespaceweekend__event.html#af44ca3d189066dd88d54ec27f2d262bd',1,'weekend_event']]],
+  ['max_5fim_5fcount_1',['MAX_IM_COUNT',['../namespaceinstant__message.html#aaeb695dadd72f164c757ce897781f82e',1,'instant_message']]],
+  ['max_5fstory_5fcount_2',['MAX_STORY_COUNT',['../namespaceweekend__event.html#a86c0eef4ceaf8d6e94e2d7b6391e305d',1,'weekend_event']]],
+  ['max_5fthanks_5fcount_3',['MAX_THANKS_COUNT',['../namespaceinstant__message.html#a0c401141c1b47c014fe0a5ed8310c2e3',1,'instant_message']]],
+  ['max_5fvolume_5flevel_4',['max_volume_level',['../namespacevnlib.html#afe00621451ed97df7947c4d71b42e9fe',1,'vnlib']]],
+  ['mc_5fcafe_5fitem_5fpreference_5',['mc_cafe_item_preference',['../structmain__character__state_1_1mc__state.html#ad1488b31c7cca57f5b8fcba0bbdad7fc',1,'main_character_state::mc_state']]],
+  ['mc_5fmusic_5fpreference_6',['mc_music_preference',['../structmain__character__state_1_1mc__state.html#a522c9b2e50d408d58373122ce7bb8a68',1,'main_character_state::mc_state']]],
+  ['mc_5fmusic_5ftalent_7',['mc_music_talent',['../structmain__character__state_1_1mc__state.html#aea3d9550d8df16445476fe3756f68baa',1,'main_character_state::mc_state']]],
+  ['mc_5fname_8',['mc_name',['../structstate_1_1_game_state.html#af7e79b4a895c640e1aaef14b98158cee',1,'state::GameState']]],
+  ['mc_5fstate_9',['mc_state',['../structstate_1_1_game_state.html#a2cc7625a93577a9f1294a9be85a2041f',1,'state::GameState']]],
+  ['mc_5fvolunteering_5fstate_10',['mc_volunteering_state',['../structmain__character__state_1_1mc__state.html#a926779e8efef3c3f5650659e2a578c6b',1,'main_character_state::mc_state']]],
+  ['menu_5foptions_11',['menu_options',['../namespacevnlib.html#afe5a912a3fd63adc8b834e26196c0a79',1,'vnlib']]],
+  ['mg_5fmode_12',['mg_mode',['../structruntime__state_1_1runtime__state.html#a3c69caf3677fa2d68421785a794d337c',1,'runtime_state::runtime_state']]],
+  ['mg_5fstate_13',['mg_state',['../structstate_1_1_game_state.html#ab0239518a9e09e3e21043881cfb5fba3',1,'state::GameState']]],
+  ['minigame_5fcount_14',['minigame_count',['../namespaceminigame__state.html#a0def362a35fce37b8d6a24eb801699b1',1,'minigame_state']]],
+  ['music_5findex_15',['music_index',['../namespacevnlib.html#a2611b6b654fd47e22cbefd4bf5ec582e',1,'vnlib']]]
+];
