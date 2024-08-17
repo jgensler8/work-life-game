@@ -16,4 +16,4 @@ This work is licensed under a
 "Work Life" is a Visual Novel built for the Gameboy Advance.
 It was built for the [2024 GBA Jam](https://itch.io/jam/gbajam24).
 
-For more information, [see the documentation](jgensler8.github.io/work-life/docs/introduction.html)
+For more information, [see the documentation](https://jgensler8.github.io/work-life-game/introduction.html)
